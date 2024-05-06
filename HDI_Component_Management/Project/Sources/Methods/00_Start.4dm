@@ -28,7 +28,7 @@ Case of
 		
 		$options:=New object:C1471
 		
-		$options.title:="Effortlessly Load and Utilize My Components"
+		$options.title:="Effortlessly load and use my components"
 		
 		$options.blog:="blog.4d.com"
 		$options.info:="4D feature"  //ex : "4D View Pro feature"
