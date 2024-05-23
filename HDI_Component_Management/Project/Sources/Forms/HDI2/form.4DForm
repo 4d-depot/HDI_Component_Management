@@ -113,10 +113,10 @@
 				"Static Picture1": {
 					"type": "picture",
 					"top": 43,
-					"left": 520,
-					"width": 396,
+					"left": 464,
+					"width": 494,
 					"height": 554,
-					"picture": "Images/package-manager-UI-components1.png",
+					"picture": "Images/component-manager.png",
 					"pictureFormat": "scaled"
 				}
 			}
@@ -265,5 +265,5 @@
 			"View 1": {}
 		}
 	},
-	"geometryStamp": 216
+	"geometryStamp": 222
 }
